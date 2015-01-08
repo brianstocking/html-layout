@@ -10,16 +10,16 @@ html, body {
 }
 
 header {
-	height: 10%;
+	height: 12%;
 	width: 100%;
 	background-color: hsl(0, 0%, 85%);
 	box-sizing: border-box;
-	padding: 25px 0 0 20px; 
+	padding: 10px 0 0 20px; 
 
 }
 
 .text{
-	height: 30%;
+	height: 28%;
 	width: 100%;
 	padding: 20px 0 0 40px;
 	box-sizing: border-box;
