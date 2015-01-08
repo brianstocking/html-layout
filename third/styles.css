@@ -1,0 +1,58 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.bar{
+	height: 15%;
+	width: 100%;
+}
+
+header {
+	height: 10%;
+	width: 100%;
+	background-color: hsl(0, 0%, 85%);
+	box-sizing: border-box;
+	padding: 25px 0 0 20px; 
+
+}
+
+.text{
+	height: 30%;
+	width: 100%;
+	padding: 20px 0 0 40px;
+	box-sizing: border-box;
+	
+}
+ div p{
+ 	font-family: Serif;
+ 	font-size: 118%;
+ 	text-align: justify;
+ }
+
+.box{
+	height: 80%;
+	width: 10%;
+	background-color: hsl(212, 73%, 59%);
+}
+
+.blue{
+
+	background: hsl(212, 73%, 59%);
+}
+
+.bright{
+	
+	background: hsl(167, 73%, 60%);
+
+}
+.green{
+	
+	background: hsl(90, 69%, 72%);
+}
+
+.yellow{
+	
+	background: hsl(55, 94%, 54%);
+}
