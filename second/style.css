@@ -1,0 +1,34 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	
+}
+
+div{
+	float: left;
+	height: 100%;
+	width: 33%;
+}
+
+.left{
+	background: #4a90e2;	
+}
+
+.middle{	
+	background:#50e3c2;	
+}
+
+.right{	
+	background:#b8e986;
+	height: 80%;	
+}
+
+.img{
+   
+    height: 20%;
+    background: url("http://i1.huffpost.com/gen/1719761/thumbs/n-COOL-CAT-large570.jpg");
+    
+    
+}
+
