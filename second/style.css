@@ -27,8 +27,8 @@ div{
 .img{
    
     height: 20%;
-    background: url("http://i1.huffpost.com/gen/1719761/thumbs/n-COOL-CAT-large570.jpg");
-    
+    background: url("http://i1.huffpost.com/gen/1719761/thumbs/n-COOL-CAT-large570.jpg") no-repeat;
+	background-size: 100% 100%;    
     
 }
 
